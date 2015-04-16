@@ -9,7 +9,7 @@ namespace LightInjectBackgroundTasks.Services
         {
             Thread.Sleep(20 * 1000); // 20 sec
 
-
+            // ORIGINALLY:
             // will fail there with
             //  Object reference not set to an instance of an object
             //    at LightInject.Web.PerWebRequestScopeManagerProvider.GetScopeManager() 
