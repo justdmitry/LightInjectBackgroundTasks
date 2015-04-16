@@ -1,0 +1,5 @@
+/*.suo
+/packages
+/LightInjectBackgroundTasks/bin
+/LightInjectBackgroundTasks/obj
+/LightInjectBackgroundTasks/*.user
